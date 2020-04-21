@@ -1,0 +1,58 @@
+Hardrock Kernel Change logs v0.4.3
+----------------------------------------------
+FKM OTA SUPPORT
+
+
+
+Hardrock Kernel Change logs v0.4.2
+--------------------------------------------------
+reverted overclock(Shdn't be doing it)
+Kept underclock to 100mhz
+added improved interactive governor
+
+
+
+Hardrock Kernel Change logs v0.4.1
+---------------------------------------------------
+First kernel to support UC and OC for snapdragon 730G
+UNDERCLOCK TO 100MHZ (set min freq to 100mhz from FK)
+OVERCLOCK Little core to 2 ghz and big cores to 2.4 GHZ ( please set it from FKM)
+Upstreamed kernel 4.14.176
+Dynamic fsync
+Singlequeue io-scheduler: bfq-sq
+ZRAM improvements and used LZ4 as default compression algorithm to improve Memory Managment.
+Gpu performance improvements
+
+**Note PLease let kernel settle for 5 mins due to improvements in schedutil ..
+
+
+Hardrock Kernel Change logs v0.3
+---------------------------------------------------
+exfat support
+kcal
+klapse
+gpu optimizations and performance improvements( no gpu wakeup on unneeded touches)
+wireguard: update to version 1.0.20200401
+low latency
+disabled gentle fair sleepers and cpu
+improved bbr tcp congestion algorithm (by default selected)
+ufs optimizations
+improved power saving
+thermal power effiecient workqueue
+removed unnecesary logging and traces to reduce unnecessary overhead
+fixed youtube playback issues maybe occuring on custom roms
+added steam valve controller support
+improved schedutil governor
+
+** GUys its recommended to hold kernel for few cycles and let it settle..have patience lol
+
+
+
+Hardrock Kernel Change logs v0.2
+----------------------------------------------------
+Applied Sultan simple LMK
+Memory optimizations
+Sched optimizations
+memory utilities optimizations(memcpy and memmove)
+Sound Enhancements
+
