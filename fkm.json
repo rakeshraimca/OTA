@@ -2,8 +2,8 @@
   "kernel": {
     "name": "Hardrock kernel",
     "version": "0.4.3-test",
-    "link": "https://github.com/rakeshraimca/POCOX2/releases/download/hardrock/Hardrock_kernelv0.4.2.zip",
-    "changelog_url": "https://raw.githubusercontent.com/rakeshraimca/POCOX2/ten/changlogs",
+    "link": "https://github.com/rakeshraimca/OTA/releases/download/hardrock/Hardrock_kernelv0.4.2.zip",
+    "changelog_url": "https://raw.githubusercontent.com/rakeshraimca/OTA/master/changlogs",
     "date": "2020-04-22",
     "sha1": "c9ffefb42f3f30d3f28624f707af35e0c55433bc"
   },
