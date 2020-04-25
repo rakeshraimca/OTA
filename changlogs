@@ -1,6 +1,18 @@
-Hardrock Kernel Change logs v0.4.3
-----------------------------------------------
-FKM OTA SUPPORT
+hardrock kernel 0.4.3 change logs:
+.....................................................
+1) upstreamed kernel to 4.14.177
+2) overclocked cpu upto 2.5 ghz big clustres and 2.1 ghz small clusters
+3) small clusters have most of core values lower and one final max for better response
+4) big clusters have powerful or more higer frequencies 
+5) Removed unnecessary wake calls for cpu (some Unnecessary ufs wakeups)
+6) Cpu goes to idle state very soon
+7) THermals improvements
+8) no lagging due to thermal throttle( if temp is higer or throttling, there still wont be lagging)
+9) Enable high frame rates in games
+
+
+
+** REMEMBER TO SWITCH TO SCHEDUTIL GOV AND MIN VALUE FOR BOTH CLUSTERS TO 100MHZ
 
 
 
