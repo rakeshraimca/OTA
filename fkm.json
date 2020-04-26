@@ -2,7 +2,7 @@
   "kernel": {
     "name": "Hardrock kernel",
     "version": "0.4.3",
-    "link": "https://raw.githubusercontent.com/rakeshraimca/OTA/master/release/overclockbeta_Hardrock_kernelv0.4.3.zip",
+    "link": "https://raw.githubusercontent.com/rakeshraimca/OTA/master/release/Hardrock_kernelv0.4.3.zip",
     "changelog_url": "https://raw.githubusercontent.com/rakeshraimca/OTA/master/changlogs",
     "date": "2020-04-26",
     "sha1": "9bce51b68385ba42de9a8c55a5333357a05c4e54"
